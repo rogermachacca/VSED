@@ -10,9 +10,8 @@ https://rebrand.ly/VSEDdataset  (dataset ~500 MB) Noise and Volcano-seismic even
 
 
 
-### Example of data selection and accessing (noise waveforms):
-
-
+### Example of data in VSED:
+. example of noise waveform
 ![event](./imgs/BOR.PF_20140609184928_NO.png)
 
 ![event](./imgs/BOR.PF_20140616194954_VC.png)
