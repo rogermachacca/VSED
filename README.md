@@ -8,6 +8,9 @@ A Data Set of Volcano-seismic Signals for AI
 
 https://rebrand.ly/VSEDdataset  (dataset ~500 MB) Noise and Volcano-seismic events
 
+### Reference
+
+- Machacca, R., Lesage, P., & Tavera, H. (2024). Deep learning and machine learning applied to the detection and classification of volcano-seismic events at Piton de la Fournaise volcano. Manuscript under review.
 
 
 ### Example of data in VSED:
