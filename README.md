@@ -12,27 +12,27 @@ https://rebrand.ly/VSEDdataset  (dataset ~500 MB) Noise and Volcano-seismic even
 
 ### Example of data in VSED:
 
-- **Item 1**: This is an example of noise waveform.
+- **Item 1**: This is an example of a noise waveform.
 
 ![event](./imgs/BOR.PF_20140609184928_NO.png)
 
-- **Item 2**: This is an example of volcano-tectonic (VT) waveform.
+- **Item 2**: This is an example of a volcano-tectonic (VT) waveform.
 
 ![event](./imgs/BOR.PF_20140616194954_VC.png)
 
-- **Item 3**: This is an example of long-period (LP) waveform.
+- **Item 3**: This is an example of VT swarm waveform.
 
 ![event](./imgs/BOR.PF_20190729050832_VC.png)
 
-- **Item 4**: This is an example of noise waveform.
+- **Item 4**: This is an example of a long-period (LP) waveform.
 
 ![event](./imgs/BOR.PF_20190722112641_VC.png)
 
-- **Item 5**: This is an example of rockfall waveform.
+- **Item 5**: This is an example of a rockfall waveform.
 
 ![event](./imgs/BOR.PF_20190917193836_VC.png)
 
-- **Item 6**: This is an example of tremor waveform.
+- **Item 6**: This is an example of a tremor waveform.
 
 ![event](./imgs/BOR.PF_20150920115423_VC.png)
 
