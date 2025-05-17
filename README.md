@@ -9,6 +9,10 @@ A Data Set of Volcano-seismic Signals for AI
 https://rebrand.ly/VSEDdataset  (dataset ~500 MB) Noise and Volcano-seismic events
 
 
-![event](BOR.PF_20140609184928_NO.png)
+
+### Example of data selection and accessing (noise waveforms):
+
+
+![event](./imgs/BOR.PF_20140609184928_NO.png)
 
 
