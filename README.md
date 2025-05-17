@@ -17,8 +17,6 @@ https://rebrand.ly/VSEDdataset  (dataset ~500 MB) Noise and Volcano-seismic even
 
 ![event](./imgs/BOR.PF_20140616194954_VC.png)
 
-![event](./imgs/BOR.PF_20150517024700_VC.png)
-
 ![event](./imgs/BOR.PF_20190729050832_VC.png)
 
 ![event](./imgs/BOR.PF_20190722112641_VC.png)
