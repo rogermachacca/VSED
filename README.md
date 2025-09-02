@@ -10,7 +10,7 @@ https://rebrand.ly/VSEDdataset  (dataset ~500 MB) Noise and Volcano-seismic even
 
 ### Reference
 
-- Machacca, R., Lesage, P., & Tavera, H. (2024). Deep learning and machine learning applied to the detection and classification of volcano-seismic events at Piton de la Fournaise volcano. Manuscript under review.
+- Machacca, R., Lesage, P., & Tavera, H. (2025). Deep Learning and Machine Learning Applied to the Detection and Classification of Volcano-Seismic Events at Piton de la Fournaise Volcano. Pure and Applied Geophysics. https://doi.org/10.1007/s00024-025-03809-9
 
 
 ### Example of data in VSED:
